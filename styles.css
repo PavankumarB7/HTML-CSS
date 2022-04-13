@@ -183,9 +183,18 @@ h5 {
     font-size: 50px;
 }
 
-p.loremipsum{
+p.lorem-ipsum{
     color: blue;
     font-size: 40px;
     background-color: lightgray;
     font-weight: bold;   
+}
+
+p.infinite{
+    background-color: skyblue;
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
 }
