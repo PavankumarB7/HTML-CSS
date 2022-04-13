@@ -182,3 +182,10 @@ h5 {
     color: brown;
     font-size: 50px;
 }
+
+p.loremipsum{
+    color: blue;
+    font-size: 40px;
+    background-color: lightgray;
+    font-weight: bold;   
+}
